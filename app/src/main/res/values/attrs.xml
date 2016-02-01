@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomCircle">
+        <attr name="circleTextSize" format="dimension" />
+        <attr name="circleTextColor" format="color" />
+        <attr name="circleWidth" format="dimension" />
+        <attr name="firstCircleColor" format="color" />
+        <attr name="secondCircleColor" format="color" />
+        <attr name="circleProgress" format="dimension" />
+        <attr name="circlePandding" format="dimension" />
+    </declare-styleable>
+</resources>
